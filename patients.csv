@@ -1,0 +1,6 @@
+id,name,age,weight,height,blood_type,conditions,allergies
+101,DEEKSHA,19,52.0,156.0,B+,none,none
+102,SHAGUN,18,52.0,151.0,AB+,none,pollen
+103,PRANJAL,18,38.0,158.0,A+,none,none
+104,Aman,55,69.0,160.0,B+,diabetes,pollen
+105,KARTIKI,19,45.0,157.0,B+,none,none
