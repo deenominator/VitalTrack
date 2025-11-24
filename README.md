@@ -33,6 +33,3 @@
 Deeksha Kaushal
 25BHI10019
 
-
-
-f
